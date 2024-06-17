@@ -75,4 +75,3 @@ If you have any questions or feedback, feel free to reach out:
 ---
 
 Built with ❤️ by Sohail (https://github.com/Sohailongithub)
-```
